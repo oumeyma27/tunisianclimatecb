@@ -8,7 +8,7 @@ Note: this chat bot is still under the development phase, and might not provide 
 
 **Test the app:**
 - Remotely:
-  All you need to is visit the app's [URL|https://tunisianclimatechatbot.streamlit.app/]
+  All you need to is visit the app's URL : https://tunisianclimatechatbot.streamlit.app/
 
 - Locally:
   
