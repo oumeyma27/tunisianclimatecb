@@ -25,7 +25,7 @@ Note: this chat bot is still under the development phase, and might not provide 
 
       $ streamlit run app.py
     
-    Note: make sure streamlit CLI is known to your system PATH
+    Note: make sure streamlit is known to your system PATH
     
 
 
