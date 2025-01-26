@@ -6,7 +6,7 @@ Note: this chat bot is still under the development phase, and might not provide 
 - chatbot.py: python code containing the traing data and query preprocessing in addition to the chatbot's core method for generating the answers related to the text data's topic.
 - app.py: the Streamlit app code
 
-** Test the app**:
+**Test the app:**
 - Remotely:
   All you need to is visit the app's [URL|https://tunisianclimatechatbot.streamlit.app/]
 
