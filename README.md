@@ -22,7 +22,8 @@ Note: this chat bot is still under the development phase, and might not provide 
        $ pip install -r requirements.txt
     
   - Run the app locally:
-       $ streamlit run app.py
+
+      $ streamlit run app.py
     
     Note: make sure streamlit CLI is known to your system PATH
     
